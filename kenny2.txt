@@ -1,0 +1,28 @@
+GitHub Test 1 Study Guide
+
+Students should complete all of the following steps to receive full credit.
+
+Students should be able to create a new repository on Github.com and explain why.
+
+Students should be able to clone their repository to their own computers and explain why.
+
+Students should be able to add files to their repositories using the Github Desktop app and explain why.
+
+Students should be able to create HTML files and add them to their repositories and explain why.
+
+Students should be able to host HTML files from their repositories using Github Pages and explain why.
+
+Students should be able to use the following HTML tags in their work, and explain why each one is used:
+<html>
+<head>
+<title>
+<link>
+<body>
+<img>
+<p>
+<h1>
+Students should be able to create a web page that includes at least one image, and that image needs to be stored in their repository, as well as be able to explain why the image needs to be in the repository (as opposed to hosted by another computer).
+
+Students should be able to modify and style different elements in their webpages using a separate CSS document. Students should reference an item by id, and by element.
+
+Students should be able to share their websites by providing a URL to their documents.
